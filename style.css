@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('https://cdn.hyperdev.com/us-east-1%3Afa026dbf-3051-4d35-bcca-f741b083268d%2Fheader.jpg');
+  /*background-image: url('');*/
   text-align: center;
   color: white;
 }
