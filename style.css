@@ -147,7 +147,7 @@ aside {
   }
 }
 header {
-  position: relative;
+   position: relative;
   width: 100%;
   min-height: auto;
   -webkit-background-size: cover;
@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  /*background-image: url('');*/
+  background-image: url('https://cdn.glitch.com/a9634c33-b293-413b-a793-c65bfe34fc48%2FC%20P.png?v=1560556762243');
   text-align: center;
   color: white;
 }
