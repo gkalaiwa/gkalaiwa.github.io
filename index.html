@@ -75,6 +75,88 @@
       </div>
     </div>
   </section>
+    
+    <!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
+<body>
+
+<div class="w3-container">
+  <h2>ʻOluʻolu</h2>
+  <p>Enjoy some of these pictures, videos, activities!</p>
+</div>
+
+<div class="w3-content w3-display-container">
+
+<div class="w3-display-container mySlides">
+  <div class="responsiveRapper">
+	<iframe width="950" height="710" src="https://www.youtube.com/embed/uw1KcCziQnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="w3-display-container mySlides">
+    <a href="https://808cleanups.org/get-involved/"><img src="img/808CleanUp.jpg" style="width:100%" title="White flower" alt="Flower"></a>
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-black">
+    808 CLEANUPS
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+    <a href="https://www.change.org/p/mayor-kirk-caldwell-save-sherwoods-forest"><img src="img/SaveSharewoods.jpg" style="width:75%" title="White flower" alt="Flower"></a>
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
+    HELP SAVE SHAREWOODS
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <a href="http://www.hawaiicleanenergyinitiative.org/about-the-hawaii-clean-energy-initiative/goals-and-objectives/"><img src="img/CleanEnergyGoals.png" style="width:100%" title="White flower" alt="Flower"></a>
+  <div class="w3-display-topright w3-large w3-container w3-padding-16 w3-black">
+    HAWAII CLEAN ENERGY INTIATIVE
+  </div>
+</div>
+
+    <div class="w3-display-container mySlides">
+  <div class="responsiveRapper">
+	<iframe width="1000" height="710"
+	src="https://www.youtube.com/embed/cfP70fAa7wg">
+	</iframe>
+</div>
+</div>
+    
+
+<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
+
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html>
+
 
   <section class="page-section cta">
     <div class="container">
