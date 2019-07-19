@@ -6,8 +6,8 @@
 
 body {
   font-family: 'Lora';
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))), url("https://lh3.googleusercontent.com/lMvvvy4yvmKfDlgsonld73U1CycTe_3Sy1g5n3A9cODebGf78t36MeqUkPdX08Rf2V6kHh5-uyHmtiTl-JcwgKgwpwkKgLmJnsvpMHzRNfk28yusdOW806r1DDJvtuLBCgR2o-YkSCMKaUIkkJEs1uWx9cDQcnRJQhH_ktcyPtpFhPbpoyeoCqMCY2DW5ssg-jO4vN2wjbxVIOV56-FloIoqchUnxmlj7zLLWWyv3nS2jrgxtaKZppOgaWRqqSXga41kL0gNLW0O_L0AJN1cRU9MkLtyDrei6owZC3CIJPuLhhLrtYNRtlrSThhyOSghrrIubhpsmudpH4CU73EhyMonvzKyNdOt9iES78t2R5oXH_Urt_LFOo0qPkznIUd4G0qX0RBwbBXWS-EQzdfqDYm4dyK6s0fVtuiMLnRBZX38FHpCLq7hceVdzzxwXdYQ4yZ1uvpygEH4VS1IF9k8HdgXFOPUJKAcCmz6payt0QYWRP_9QTfdzfVIGGkEwA6acI3n4puB4nCKnfEbHsxL5blo41wxgn7x0zKeG5tVkf711W8UT9UBIrOj0KAduOoEekqFUhKLiXQSq-N38R78OSOwv3Ueg3numhCpUmifqymQrkj6X3fGTBlccv9lRTyKrMCpoLRflHnkTrolQuvgCD08_mg5wU8f=w820-h625-no") ;
-  background: linear-gradient(rgba(47, 23, 15, 0.65)), url("https://lh3.googleusercontent.com/lMvvvy4yvmKfDlgsonld73U1CycTe_3Sy1g5n3A9cODebGf78t36MeqUkPdX08Rf2V6kHh5-uyHmtiTl-JcwgKgwpwkKgLmJnsvpMHzRNfk28yusdOW806r1DDJvtuLBCgR2o-YkSCMKaUIkkJEs1uWx9cDQcnRJQhH_ktcyPtpFhPbpoyeoCqMCY2DW5ssg-jO4vN2wjbxVIOV56-FloIoqchUnxmlj7zLLWWyv3nS2jrgxtaKZppOgaWRqqSXga41kL0gNLW0O_L0AJN1cRU9MkLtyDrei6owZC3CIJPuLhhLrtYNRtlrSThhyOSghrrIubhpsmudpH4CU73EhyMonvzKyNdOt9iES78t2R5oXH_Urt_LFOo0qPkznIUd4G0qX0RBwbBXWS-EQzdfqDYm4dyK6s0fVtuiMLnRBZX38FHpCLq7hceVdzzxwXdYQ4yZ1uvpygEH4VS1IF9k8HdgXFOPUJKAcCmz6payt0QYWRP_9QTfdzfVIGGkEwA6acI3n4puB4nCKnfEbHsxL5blo41wxgn7x0zKeG5tVkf711W8UT9UBIrOj0KAduOoEekqFUhKLiXQSq-N38R78OSOwv3Ueg3numhCpUmifqymQrkj6X3fGTBlccv9lRTyKrMCpoLRflHnkTrolQuvgCD08_mg5wU8f=w820-h625-no");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))), url("../img/BG.jpg") ;
+  background: linear-gradient(rgba(47, 23, 15, 0.65)), url("../img/BG.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
