@@ -94,7 +94,7 @@ p {
   color: #02742c;
 }
 
-@media (min-width: 2000px) {
+@media (min-width: 992px) {
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 0.9rem;
   }
@@ -119,7 +119,7 @@ p {
   position: relative;
 }
 
-@media (min-width: 2000px) {
+@media (min-width: 992px) {
   .intro .intro-img {
     width: 75%;
     float: right;
@@ -168,7 +168,7 @@ p {
   border: 0.25rem solid rgba(255, 255, 255, 0.85);
 }
 
-@media (min-width: 2000px) {
+@media (min-width: 992px) {
   .about-heading .about-heading-img {
     position: relative;
     z-index: 0;
@@ -180,7 +180,7 @@ p {
   }
 }
 
-@media (min-width: 2000px) {
+@media (min-width: 992px) {
   .product-item .product-item-title {
     position: relative;
     z-index: 1;
@@ -215,7 +215,7 @@ p {
   color: #02742c;
 }
 
-@media (min-width: 2000px) {
+@media (min-width: 992px) {
   .list-hours {
     width: 50%;
     font-size: 1.1rem;
